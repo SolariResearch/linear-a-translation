@@ -1,0 +1,677 @@
+================================================================================
+HURRIAN LANGUAGE VOCABULARY DATABASE FOR LINEAR A MAPPING
+================================================================================
+Compiled from: Wegner/Bomhard grammar, Laroche Glossaire, Kassian lexicostatistics,
+Richter Bibliographisches Glossar, Palaeolexicon, en-academic.com, Grokipedia,
+Giorgieri/Mouton body parts, CDLI, van Soesbergen, Fournet, and multiple sources.
+================================================================================
+
+##############################################################################
+SECTION 1: BASIC VOCABULARY (SWADESH-TYPE LIST)
+##############################################################################
+
+English          | Hurrian              | Notes
+-----------------|----------------------|----------------------------------------
+I                | ište (abs), isaš (erg) | independent pronoun
+thou/you         | fe (abs), feš (erg)  |
+he/she/it        | mane, manni (abs)    | manuš (ergative)
+we               | šattil, šattitil(la) |
+you (pl)         | fella                |
+they             | manella              |
+this             | anni                 | demonstrative
+that             | anti, ani            |
+who              | ab-i, av-i           | interrogative
+what             | av-                  | interrogative
+all/every        | šui                  | also šua-lla
+one              | šukko, šuki          | also šukki
+two              | šini                 |
+three            | kige, kike           |
+four             | tumni                |
+five             | nariya               |
+six              | šeše                 |
+seven            | šinti, šindi         |
+eight            | kiri, kira           |
+nine             | tamri                |
+ten              | ēmani, eman          |
+man              | taɣe, tae            | also tagʰe
+woman            | asti, asta           | also ašti
+person           | tarsuvani            |
+father           | attai                | a-stem kinship
+mother           | nera                 |
+son              | futki                | from fut- "to beget"
+daughter         | ēbla                 | also pēre "child"
+brother          | šēna                 | also šen, šenni
+sister           | ela                  |
+husband          | —                    | unattested in sources
+wife             | ašti                 | same as "woman"
+dog              | ervi, erbi           |
+bird             | eradi                |
+snake            | apsi, apši           |
+louse            | apxe, apḫe           |
+tree             | tali                 |
+fire             | tari                 |
+water            | sive, siye           |
+earth/soil       | ese, eše             |
+rain             | isena, išena         |
+sun              | šimigi               | also Šimige (god)
+moon             | kušuɣ, kušuḫ        | also Kušuḫ (god)
+mountain         | pabni, pabani        |
+road/path        | xari, ḫari           |
+blood            | zurgi                |
+meat/flesh       | uzi                  |
+fat/oil          | aše                  |
+eye              | si, siɣi             |
+ear              | nui, nuɣi            | also nuiwa
+nose             | punɣi, puxxi         |
+mouth            | fasi, faši           | also pāži
+tooth            | seri, sirni          |
+tongue           | irde, irdi           |
+head             | paɣi, paḫi           |
+hand             | suni, šuni           | also šummi-ni
+foot             | uri, urni            |
+heart            | tiša                 |
+liver            | urmi                 |
+breast           | neɣerni, neḫerni     |
+skin             | asxe, ašḫe           |
+neck             | kuduni               |
+smoke            | xivri, ḫiuri         |
+ashes            | šalmi                |
+big/great        | talmi, talami        |
+long             | keri, kerassi        |
+new              | suɣe, šuḫe           |
+good             | faɣri, faḫrusi       | verb: nir- "to be good"
+black            | timeri, timari       |
+thin             | nigale               |
+many             | teuna                |
+name             | tiye, tive           |
+not              | =u-, =kkV-           | negative markers
+
+##############################################################################
+SECTION 2: KINSHIP AND SOCIAL TERMS
+##############################################################################
+
+Hurrian          | Meaning              | Notes
+-----------------|----------------------|----------------------------------------
+attai            | father               | a-stem noun
+nera             | mother               |
+šēna             | brother              | also šen, šenni
+ela              | sister               |
+futki            | son                  | from fut- "to beget"
+ēbla             | daughter             |
+ašti             | woman, wife          |
+taɣe / tae       | man                  |
+attardi          | ancestor             | lit. "father's father"
+ēni              | god                  | plural: enna, ennaši (gen.pl)
+ewri             | lord, ruler          | used for earthly kings
+šarri            | king (divine)        | Akkadian loanword
+allai            | lady, mistress, queen|
+endan            | lord (archaic)       | title
+maryanni         | chariot noble        | Indo-Aryan loanword
+šankunni         | priest               | from Akkadian šangû
+entanni          | priestess            | from Akkadian entu
+tabiri           | coppersmith          | from tab- "to pour/cast"
+pairi            | builder              | agent participle
+paššīthe         | messenger            | from pašš- "to send"
+kebli            | hunter               | fossilized from keb-
+tarsuvani        | person               |
+torubi           | enemy                |
+
+##############################################################################
+SECTION 3: RELIGIOUS & RITUAL TERMS
+##############################################################################
+
+Hurrian          | Meaning              | Notes
+-----------------|----------------------|----------------------------------------
+ēni              | god                  | fundamental religious term
+purli / purulle  | temple               | center of religious life
+keldi            | peace offering       | ritual offering type
+kaluti           | offering list        | sequences of deity names
+abi              | necromantic pit      | sacrificial pit for underworld
+ambassi          | cultic place/object  | often joined with keldi
+ḫāžāri          | oil (ritual)         | used in anointing rituals
+ahri             | incense              |
+aḫarussi         | censer, incense vessel|
+šidari           | curse, oath          | ritual context
+kirenzi          | release, liberation  | Hurrian title of Song of Release
+šalli            | great (epithet)      | divine qualifier
+
+DEITIES:
+Teššub           | storm god, king of heaven, head of pantheon
+Ḫebat / Ḫepat   | queen of heaven, Teššub's consort
+Šarruma          | son of Teššub and Ḫebat
+Šauška           | goddess of war and sex, Teššub's sister
+Kumarbi          | father of the gods, chthonic
+Alalu            | primordial chthonic divinity
+Šimigi           | sun god
+Kušuḫ            | moon god
+Nikkal           | moon god's consort
+Aštabi           | god of war
+Allani           | goddess of the netherworld
+Išḫara           | goddess
+Tasmisu          | Teššub's vizier
+Šeri             | "day" (one of Teššub's bulls)
+Ḫurri            | "night" (one of Teššub's bulls)
+Ninatta          | Šauška's attendant
+Kulitta          | Šauška's attendant
+Nabarbi          | deity consort of Shuwaliyatti
+
+##############################################################################
+SECTION 4: ADMINISTRATIVE & ECONOMIC TERMS
+##############################################################################
+
+Hurrian          | Meaning              | Notes
+-----------------|----------------------|----------------------------------------
+tuppi            | clay tablet          | Akkadian loanword
+puttu            | value                | cf. Linear A po-to
+kuru             | again, in return     | cf. Linear A ku-ro
+šiglade          | shekel (weight)      | Akkadian loanword
+arana            | gift, tribute        | Nuzi texts
+supki / supku    | refund, restitution  | from sub- "to return"
+karulumma        | to store             | Nuzi idiom + epēšu
+melumma          | to drive             | Nuzi idiom + epēšu
+tektumma         | to set free          | Nuzi idiom + epēšu
+sinussi          | blinkers (for horses)| Nuzi texts
+ḫanigalbatûtu    | citizenship/subjecthood | political term
+arni             | guilt, debt          | Akkadian loanword (ar-nu)
+salamzi          | statue, image        | Akkadian loanword
+tibni            | straw                | Akkadian loanword
+kungalle         | fat-tailed sheep     | Akkadian loanword (gukkal)
+
+##############################################################################
+SECTION 5: BODY AND NATURE VOCABULARY
+##############################################################################
+
+Hurrian          | Meaning              | Notes
+-----------------|----------------------|----------------------------------------
+paḫi             | head                 |
+suni / šuni      | hand                 | Urartian cognate: su-
+uri / urni       | foot                 |
+tiša             | heart                |
+urmi             | liver                |
+neḫerni          | breast               |
+nui / nuiwa      | ear                  |
+si / siɣi        | eye                  |
+faši / pāži      | mouth                |
+irde / irdi      | tongue               |
+seri / sirni     | tooth                |
+kuduni           | neck                 |
+punɣi            | nose                 |
+asḫe             | skin                 |
+edi              | body                 | relational noun
+ḫavurni / havurni| heaven, sky          | also hafurni
+ese / eše        | earth, ground        |
+tali             | tree, wood           |
+sive / siye      | water                |
+tari             | fire                 |
+pabni / pabani   | mountain             |
+ḫari             | road, path           |
+šalmi            | ashes                |
+ḫiuri            | smoke                |
+isena / išena    | rain                 |
+šavali           | year                 |
+
+##############################################################################
+SECTION 6: MATERIAL CULTURE & TECHNOLOGY
+##############################################################################
+
+Hurrian          | Meaning              | Notes
+-----------------|----------------------|----------------------------------------
+pidari           | bull, ox             | pidarži = stable
+ḫobidi           | calf                 |
+ervi / erbi      | dog                  |
+eradi            | bird                 |
+apši             | snake                |
+apḫe             | louse                |
+kāzi             | cup, goblet          |
+ḫubuwa           | vessel (type)        | ritual vessel
+awari            | field                |
+tabiri           | coppersmith          | "one who casts copper"
+gangaduḫḫi       | a food (cereal-based)|
+
+##############################################################################
+SECTION 7: ADJECTIVES AND DESCRIPTORS
+##############################################################################
+
+Hurrian          | Meaning              | Notes
+-----------------|----------------------|----------------------------------------
+talmi / talami   | great, big           | te-l/ra-me in Linear A?
+faɣri            | good, beautiful      | also faḫrumme "to be good"
+timeri           | black, dark          |
+keri             | long                 |
+nigale           | thin                 |
+šuḫe             | new                  |
+urḫi             | true                 |
+wanti            | right, correct       |
+muš              | just                 |
+āri              | evil, bad            |
+ōli              | another, other       |
+aštohhe          | feminine             | from ašti + abstract suffix
+
+##############################################################################
+SECTION 8: VERB ROOTS (KNOWN MEANINGS)
+##############################################################################
+
+Hurrian Root     | Meaning              | Notes
+-----------------|----------------------|----------------------------------------
+ag-              | to bring, carry, take| also "to rise" (intrans.)
+al-              | to drink             |
+am-              | to burn              |
+an-              | to rejoice           |
+ar-              | to give              |
+eɣl- / eġl-     | to keep safe, save   |
+fur-             | to see, look         |
+ḫaš- / ḫaž-     | to hear              | also xas-
+ḫil- / xill-    | to say, speak        |
+ḫinz-            | to suppress          |
+ḫub-             | to break             |
+ḫuy-             | to call, summon      | also "to be"
+kad-             | to speak, dispute    | kadugar = dispute
+keb-             | to hunt              |
+mel-             | to expel, drive away |
+naḫḫ-            | to sit               |
+nir-             | to be good           |
+pal-             | to know              |
+pašš-            | to send              |
+pa-              | to build             |
+šalɣ-            | to hear (derived)    |
+sub- / zub-      | to return            |
+sul-             | to bind              |
+tad-             | to love              |
+tan-             | to do, make          |
+ti- / te-        | to say, speak words  |
+ul-              | to eat               |
+un-              | to come              |
+ūr-              | to desire, want      |
+ušš-             | to go                |
+
+##############################################################################
+SECTION 9: COMPLETE CASE SYSTEM (13 CASES)
+##############################################################################
+
+Case             | Singular     | Plural           | Function
+-----------------|--------------|------------------|-------------------------
+Absolutive       | -ø           | -ø, -lla         | Intrans. subject, trans. object
+Ergative         | -š (-že)     | -(a)šuš          | Transitive subject/agent
+Genitive         | -fe, -we,-ve | -(a)še           | Possession "of"
+Dative           | -fa, -wa,-va | -(a)ša           | Indirect object "to, for"
+Essive           | -a, -i, -e   | -(a)ša, -a       | "as, in capacity of"
+Allative         | -ta, -da     | -(a)šta          | Direction "toward"
+Ablative         | -tan, -dan   | -(a)štan         | Origin "from"
+Instrumental     | -ae          | (not found)      | Means "by, with"
+Abl-Instrumental | -n(i), -ne   | -(a)šani,-šane   | Combined abl+instr
+Comitative       | -ra          | -(a)šura         | Accompaniment "with"
+Associative      | -nn(i)       | (not found)      | Association
+Equative I       | -ōš          | (not found)      | Comparison "like"
+Equative II      | -nna         | -(a)šunna        | Comparison "like"
+
+##############################################################################
+SECTION 10: VERBAL MORPHOLOGY
+##############################################################################
+
+A. INDICATIVE MOOD (Tense/Transitivity/Negation):
+
+Type                    | Present | Preterite | Future
+------------------------|---------|-----------|--------
+Intransitive affirm.    | -a      | -ōšta     | -ētta
+Intransitive negative   | -okko   | -ōštokko  | -ēttokko
+Antipassive affirm.     | -i      | -ōši      | -ēti
+Antipassive negative    | -ikki   | -ōšikki   | -ētikki
+Transitive (Mari/Hatt.) | -o      | -ōšo      | -ēto
+Transitive (Mitanni)    | -i      | -ōši      | -ēti
+
+B. ERGATIVE SUBJECT MARKERS:
+
+Person        | With -i (Mitanni) | With -wa (Negated) | Other
+--------------|-------------------|--------------------|--------
+1st singular  | -af, -au          | -uffu              | -...-af
+1st plural    | -auša             | -uffuš(a)          |
+2nd singular  | -i-o              | -wa-o              | -...-o
+2nd plural    | -*aššo            | -uššu              |
+3rd sing/pl   | -i-a              | -wa-a              | -...-a
+
+C. OPTATIVE MOOD:
+
+Person/Number     | Affirmative | Negative   | Meaning
+------------------|-------------|------------|------------------
+1st sg            | -ile        | -ifalli    | "I want to..."
+2nd sg            | -i, -e      | -ifa, -efa | "you will..."
+2nd pl            | -i(š), -e(š)| -ifa(š)    | "you (pl) will..."
+3rd sg            | -ien        | -ifaen     | "he/she can..."
+3rd pl            | -iten       | -itfaen    | "may they..."
+
+D. VERBAL DERIVATION SUFFIXES:
+
+-an(n)-   | causative
+-ant-     | applicative
+-ukar-    | reciprocative
+
+##############################################################################
+SECTION 11: PRONOUNS
+##############################################################################
+
+A. INDEPENDENT (ABSOLUTIVE):
+1st sg: ište    | 2nd sg: fe      | 3rd sg: mane, manni
+1st pl: šattil  | 2nd pl: fella   | 3rd pl: manella
+
+B. ENCLITIC (ABSOLUTIVE):
+1st sg: -t(ta)  | 2nd sg: -m(ma)  | 3rd sg: -n(na), -me, -ma
+1st pl: -til(la)| 2nd pl: -f(fa)  | 3rd pl: -l(la), -lle
+
+C. ERGATIVE INDEPENDENT:
+1st sg: isaš    | 2nd sg: feš     | 3rd sg: manuš
+1st pl: šieš    | 2nd pl: fešuš   | 3rd pl: manšoš
+
+D. POSSESSIVE SUFFIXES:
+               | Word-final | Before C  | Before V/f/w
+1st sg         | -iffe      | -iffu     | -iff
+2nd sg         | -f         | -fu       | -f
+3rd sg         | -i         | -i        | -i
+1st pl         | -iffaš     | -iffaš    | -iffaš
+2nd pl         | -šše       | -šu       | —
+3rd pl         | -yaš       | -yaš      | -yaš
+
+##############################################################################
+SECTION 12: NUMERALS (COMPLETE)
+##############################################################################
+
+Cardinal  | Form           | Ordinal      | Form
+----------|----------------|--------------|----------
+1         | šukki/šukko    | —            | —
+2         | šini           | 2nd          | šinzi
+3         | kige/kike      | 3rd          | kiški
+4         | tumni          | 4th          | tumušše
+5         | nariya         | 5th          | narišše
+6         | šeše           | —            | —
+7         | šinti/šindi    | 7th          | šindišše
+8         | kiri/kira      | —            | —
+9         | tamri          | —            | —
+10        | ēmani/eman     | 10th         | emanze
+
+Indo-Aryan numerals (Mitanni layer, horse training):
+1 = aika, 3 = tera, 5 = panza, 7 = šapta
+
+##############################################################################
+SECTION 13: POSTPOSITIONS AND PARTICLES
+##############################################################################
+
+Form            | Meaning
+----------------|--------------------------------
+ed=ī=da         | concerning, with reference to
+e/ig=ī=da       | within
+fur=ī=da        | with regard to
+ā(i)=ī=da       | in the presence of
+pa-i            | on, upon
+šu-a            | to, for
+tala-nda        | under
+henn            | now
+kuru            | again
+anammi          | thus
+ai              | when, if
+inna            | when (temporal)
+panu-           | although
+ije- / ija-     | relative particle
+alaše-          | if, whether
+-ma             | and, but (coordinating)
+-man            | but, even
+
+##############################################################################
+SECTION 14: AKKADIAN LOANWORDS IN HURRIAN
+##############################################################################
+
+Akkadian         | Hurrian Form    | Meaning
+-----------------|-----------------|---------------------------
+tuppu            | tuppi           | clay tablet
+Misru            | Mizri           | Egypt
+ḫapiru           | hāpiri          | nomad
+arnu             | arni            | guilt, debt
+ḫasīsu           | ḫaššišši        | ear (alternate)
+salmu            | salamzi         | statue, image
+šiqlu            | šiglade         | shekel (weight unit)
+tibnu            | tibni           | straw
+šarru            | šarri           | (divine) king
+gukkal           | kungalle        | fat-tailed sheep
+šangû            | šankunni        | priest
+entu             | entanni         | priestess
+
+##############################################################################
+SECTION 15: INDO-ARYAN LOANWORDS (MITANNI LAYER)
+##############################################################################
+
+Proto-Indo-Aryan  | Hurrian Form    | Meaning
+------------------|-----------------|---------------------------
+*aika             | aika-           | one (horse training)
+*trayas           | tera-           | three
+*panca            | panza-          | five
+*sapta            | šapta-          | seven
+*marya-           | maryanni        | chariot noble
+*babhru           | babru           | brown (horse color)
+
+##############################################################################
+SECTION 16: LINEAR A → HURRIAN PROPOSED CORRESPONDENCES
+##############################################################################
+
+Linear A Form       | Hurrian Equivalent      | Proposed Meaning
+--------------------|-------------------------|---------------------------
+a-ta-i-jo-wa-ja     | attai=j=uwwa=j=aš      | "Our Father" (epithet of Teššub)
+a-sa-sa-ra-me       | arsa-sarr=a=me          | "The boy, he is like the King of Gods"
+a-di-<da>ki-ti      | (epithet of Ḫebat)      | (specific meaning debated)
+ku-ro               | kuru                    | "again, in return" (not "total")
+po-to-ku-ro         | puttu-kuru              | "value again" (not "grand total")
+a-pi                | abi                     | necromantic pit/offering pit
+e-na-si             | ennaši / ennaše         | "of the gods" (gen.pl.)
+te-l/ra-me          | telame / talame / talme  | "great"
+ku-re-96 (ku-re-ḫi) | Ḫurr=e=ḫi             | "Hurrian"
+te-we-mi            | tew-ermi                | "speak, oh Lord!"
+
+Administrative readings (van Soesbergen hypothesis):
+ki-ro               | deficit indicator       | commodities in arrears
+pa-i-to             | Phaistos                | toponym (same as Linear B)
+
+##############################################################################
+SECTION 17: HURRIAN NAME ELEMENTS IN LINEAR A TABLETS
+##############################################################################
+
+Element   | Meaning           | Example Names
+----------|-------------------|---------------------------------
+-šenni    | brother           | Atal-šenni, Unap-šenni
+-atal     | strong one        | Tiš-atal
+-ewri     | lord              | Kušuḫ-ewri
+-Teššub   | storm god         | Keli-Teššub, Unap-Teššub
+-Ḫepat    | goddess           | Gilu-ḫipa, Sata-ndu-hepa
+-muša     | divine name       | (with athematic vowel)
+attai-    | father            | (in sentence names)
+unap-     | came              | Unap-Teššub "Teššub came"
+ḫutip-    | elevated          | Ḫutip-Ukur "Ugur elevated"
+kirip-    | set free          | Kirip-Tilla "Tilla set free"
+
+##############################################################################
+SECTION 18: RITUAL AND ADMINISTRATIVE VOCABULARY (FROM TEXTS)
+##############################################################################
+
+From the Song of Release / Bilingual texts:
+Hurrian          | Meaning              | Source
+-----------------|----------------------|----------------------------
+kirenzi          | release, freedom     | title of epic
+širati           | tell, story          | narrative context
+ebri             | maid/servant         | Song of Release
+Kummini          | Kumme (sacred city)  | Teššub's cult center
+tīe / tiye       | word, thing, matter  | also "name"
+evri             | lordship             | abstract of ewri
+allā             | mistress, queenship  | abstract of allai
+ḫazizzi          | wisdom               |
+šakruin          | protect!             | imperative, Tišatal inscription
+hennī            | love(s)              | Mitanni Letter
+inūttanīin       | now                  | temporal, Mitanni Letter
+
+From Ritual texts (Görke):
+kōri             | anger                |
+kōrgorē          | rage                 |
+kadugar          | dispute              |
+ḫežmirži         | brightness           |
+egi              | spring, inside       |
+ištani           | middle, interior     |
+tādi             | love (noun)          |
+
+##############################################################################
+SECTION 19: VERBAL EXAMPLES FROM TEXTS
+##############################################################################
+
+Hurrian Form        | Translation              | Analysis
+--------------------|--------------------------|---------------------------
+pašš=ož=i           | he has sent it           | trans: 3sg obj + 3sg subj
+un=tta              | I come                   | intrans: 1sg absolutive
+tad=iff=a           | I love it                | trans: 1sg obj + 3sg subj
+šēn(a)=iffu=ž       | my brother (erg.)        | possessive + case
+en(i)=na            | the gods (abs.pl.)       | absolutive plural
+ḫub=o=l=ēž          | break! (optative)        | with optative marker
+kad=i=l=ēž           | speak! (optative)        | with optative marker
+šalɣ=ōl=i           | hear (derived)           |
+ḫaž=āž=i=l=ež        | hear (derived optative)  |
+mānnatta            | I am                     | predicative
+kāz=ōš              | like a cup               | equative case
+
+##############################################################################
+SECTION 20: HURRO-URARTIAN GRAMMATICAL COMPARISON
+##############################################################################
+
+Feature          | Hurrian      | Urartian     | Function
+-----------------|--------------|--------------|-------------------
+Plural           | -až-         | -aš-         | nominal plurality
+Ergative         | -že          | -se          | agent marker
+Genitive         | -ve          | -xe          | possession
+Dative           | -va          | -xe          | indirect object
+Directive        | -da          | -de          | direction
+
+Known cognate: Hurrian suni "hand" = Urartian su-
+
+##############################################################################
+SECTION 21: KEY SOURCES AND ACCESS POINTS
+##############################################################################
+
+1. Laroche, E. "Glossaire de la langue hourrite" (1980)
+   - Archive.org full text available (OCR)
+   - Foundation glossary of Hurrian, ~500+ entries
+
+2. Richter, T. "Bibliographisches Glossar des Hurritischen" (2012)
+   - 667 pages, main glossary pp. 1-509
+   - Summarizes 30 years of Hurrian lexicography
+   - Includes Ugaritic alphabetic Hurrian (pp. 512-544)
+
+3. Wegner, I. & Bomhard, A.R. "Introduction to the Hurrian Language" (2020/2023)
+   - Archive.org PDF available
+   - Hurrian Glossary added January 2023
+   - Based on Wegner's Hurrian Grammar (1st ed.)
+
+4. Kassian, A. "Hurrian basic vocabulary" (2014)
+   - 110-item wordlist, Global Lexicostatistical Database
+   - CDLI article: cdli.earth/articles/cdlj/2014-4
+
+5. Van Soesbergen, P.G. "Decipherment of Minoan Linear A" (2016-2022)
+   - 6 parts, Vol. I: Hurrians and Hurrian in Minoan Crete
+   - Indices and Glossaries (Parts III-VI)
+   - 2022 edition tripled identifications over 2016
+
+6. Fournet, A. "Glossary of Linear A Mino-Hurrian" (2017, draft v1)
+   - Listed at AWOL (Ancient World Online)
+   - q-series = ḫ-series, ja = ba corrections
+
+7. Palaeolexicon.com - Hurrian dictionary (public since 2020)
+   - Hundreds of words browsable online
+
+8. Nozadze, N. "Vocabulary of the Hurrian Language"
+   - Russian, German, English, French translations
+
+9. Giorgieri, M. & Mouton, A. "Body parts in Hurrian" (2017)
+   - Complete body part terminology with multilingual equivalents
+
+10. Planelles, A. "Previously Unidentified Hurrian Words in Nuzi Texts" (2024)
+    - supki "refund", paġuru "obliged", ḫuišši "calling"
+
+##############################################################################
+SECTION 22: PHONOLOGICAL NOTES FOR LINEAR A MAPPING
+##############################################################################
+
+Key points for mapping Linear A syllabary to Hurrian:
+
+1. Hurrian had NO voiced-voiceless distinction in stops
+   - Linear A p/b, t/d, k/g distinctions may be irrelevant
+   - Cuneiform shows voiced allophones between voiced phonemes
+
+2. All consonants except /w/ and /j/ could be long or short
+   - Gemination was phonemic: kāzi vs. kassi
+
+3. Hurrian vowels: a, e, i, o, u (5 vowels)
+   - Generally matches Linear A/B vowel system
+
+4. Hurrian had ḫ (voiceless velar/pharyngeal fricative)
+   - Fournet: Linear B q-series should read as Linear A ḫ-series
+   - Linear B qa = Linear A ḫa, etc.
+
+5. Hurrian had š (voiceless postalveolar fricative)
+   - Linear A s-series may represent both s and š
+
+6. Agglutinative structure means long words:
+   - Root + derivation + case + possessive + enclitic chains
+   - Multiple signs needed per word in Linear A
+
+7. Word-final vowels common in Hurrian:
+   - Most nouns end in -i (e.g., ewri, šarri, eni, purli)
+   - Some in -a (kinship: attai, šēna)
+   - Matches well with CV syllabary of Linear A
+
+##############################################################################
+SECTION 23: SEMANTIC DOMAINS MOST RELEVANT TO LINEAR A TABLETS
+##############################################################################
+
+A. ACCOUNTING/TRANSACTIONS (Haghia Triada type tablets):
+   kuru = again/in return (cf. ku-ro)
+   puttu = value (cf. po-to)
+   arana = gift, tribute
+   supki = refund, restitution
+   arni = guilt, debt
+   šiglade = shekel (weight)
+   tuppi = clay tablet
+
+B. RELIGIOUS OFFERINGS (libation tables, peak sanctuaries):
+   ēni = god
+   purli = temple
+   keldi = peace offering
+   abi = ritual pit
+   ahri = incense
+   ḫāžāri = oil (anointing)
+   kaluti = offering list
+   kirenzi = release
+
+C. AGRICULTURE/LIVESTOCK:
+   awari = field
+   pidari = bull/ox
+   ḫobidi = calf
+   kungalle = fat-tailed sheep
+   eradi = bird
+   gangaduḫḫi = cereal food
+   tibni = straw
+
+D. TITLES AND OFFICES:
+   ewri = lord
+   šarri = king
+   allai = lady, queen
+   endan = lord (archaic)
+   šankunni = priest
+   entanni = priestess
+   maryanni = chariot noble
+   tabiri = coppersmith
+
+E. PERSONAL NAME ELEMENTS (very common in Linear A):
+   attai = father
+   šēna = brother
+   ela = sister
+   ḫutip = elevated
+   kirip = set free
+   unap = came
+   -šenni = brother suffix
+   -ewri = lord suffix
+   -atal = strong one
+
+================================================================================
+END OF DATABASE
+================================================================================
